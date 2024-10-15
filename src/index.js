@@ -1,6 +1,8 @@
 import L from "leaflet";
 
 import "leaflet-fullscreen";
+import "leaflet.locatecontrol";
+import "leaflet.locatecontrol/dist/L.Control.Locate.min.css";
 import "leaflet-timedimension";
 import "leaflet.sync";
 import "leaflet.control.resizer";
